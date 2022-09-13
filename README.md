@@ -1,5 +1,4 @@
 # Flix
-![Flix Demo 1](https://user-images.githubusercontent.com/18449347/189827712-c75ab4e3-0427-4c7a-96fe-8b5dbbc9c2ba.gif)
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
@@ -21,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+![Flix Demo 1](https://user-images.githubusercontent.com/18449347/189827712-c75ab4e3-0427-4c7a-96fe-8b5dbbc9c2ba.gif)
 
 
 
